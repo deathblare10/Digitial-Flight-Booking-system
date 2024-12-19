@@ -47,5 +47,4 @@ This is a simple command-line interface program written in C for a digital fligh
 
 ## Author
 
-[Sanjay Deshmukh]
-
+Sanjay Deshmukh
